@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0012-integer-to-roman) |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/1716-calculate-money-in-leetcode-bank) |
 ## String
 |  |
 | ------- |
