@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0012-integer-to-roman) |
+| [0242-valid-anagram](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0242-valid-anagram) |
 ## Greedy
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0015-3sum) |
+| [0242-valid-anagram](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
 | ------- |
