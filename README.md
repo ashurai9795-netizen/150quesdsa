@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0383-ransom-note) |
 ## Greedy
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0383-ransom-note) |
 ## Trie
 |  |
 | ------- |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0209-minimum-size-subarray-sum) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
