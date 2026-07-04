@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0049-group-anagrams) |
+| [0202-happy-number](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0242-valid-anagram) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0012-integer-to-roman) |
+| [0202-happy-number](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0202-happy-number) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/1716-calculate-money-in-leetcode-bank) |
 ## String
 |  |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0202-happy-number) |
 ## Binary Search
 |  |
 | ------- |
