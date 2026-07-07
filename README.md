@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0128-longest-consecutive-sequence) |
@@ -168,4 +169,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0226-invert-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
