@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0014-longest-common-prefix) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0053-maximum-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
