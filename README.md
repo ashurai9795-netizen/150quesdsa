@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0134-gas-station) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0202-happy-number) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/1716-calculate-money-in-leetcode-bank) |
 ## String
