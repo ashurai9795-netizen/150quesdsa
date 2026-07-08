@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0202-happy-number) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/1716-calculate-money-in-leetcode-bank) |
 ## String
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0209-minimum-size-subarray-sum) |
 ## Sorting
