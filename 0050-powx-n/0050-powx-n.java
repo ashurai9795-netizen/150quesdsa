@@ -14,12 +14,9 @@ class Solution {
         while(b>0){
             if(b%2==1){
             curr*=x;
-            b=b-1;
         } 
-        else{
             x*=x;
             b=b/2;
-        }
         }
         return curr;
 
