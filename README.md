@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0202-happy-number) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0151-reverse-words-in-a-string) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0067-add-binary) |
 ## Recursion
 |  |
 | ------- |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0190-reverse-bits) |
