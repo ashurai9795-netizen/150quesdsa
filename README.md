@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0073-set-matrix-zeroes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0134-gas-station) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0073-set-matrix-zeroes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0141-linked-list-cycle) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0112-path-sum](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0112-path-sum](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -215,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0190-reverse-bits](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0191-number-of-1-bits) |
