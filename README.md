@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0173-binary-search-tree-iterator) |
 ## Sliding Window
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0173-binary-search-tree-iterator) |
 ## Matrix
 |  |
 | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0173-binary-search-tree-iterator](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0112-path-sum) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0173-binary-search-tree-iterator](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0226-invert-binary-tree) |
 ## Divide and Conquer
@@ -231,4 +235,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0222-count-complete-tree-nodes) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
