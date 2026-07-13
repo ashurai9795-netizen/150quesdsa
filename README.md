@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0015-3sum) |
+| [0045-jump-game-ii](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0053-maximum-subarray) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0134-gas-station) |
 ## Math
 |  |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0053-maximum-subarray) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0918-maximum-sum-circular-subarray) |
