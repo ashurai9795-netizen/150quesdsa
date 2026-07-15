@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0049-group-anagrams) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0125-valid-palindrome) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0173-binary-search-tree-iterator) |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0053-maximum-subarray) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -260,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0173-binary-search-tree-iterator) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ashurai9795-netizen/150quesdsa/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
